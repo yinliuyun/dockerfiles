@@ -1,0 +1,3 @@
+[submodule "oraclejdk7"]
+	path = oraclejdk7
+	url = https://github.com/yinliuyun/dockerfiles.git
