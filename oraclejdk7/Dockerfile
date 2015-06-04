@@ -6,7 +6,7 @@ FROM centos:latest
 
 MAINTAINER makefu <83368981@qq.com>
 
-LABEL Description="Oracle java7 on Centos" Basic usage="docker build -t makefu/java7 . \ndocker run -d makefu/java7" Version="1.0"
+LABEL Description="Oracle java7 on Centos"
 
 RUN cd /usr
 
